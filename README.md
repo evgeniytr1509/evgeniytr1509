@@ -25,6 +25,6 @@ languages and technologies
 ![HTML](https://img.shields.io/badge/HTML-yellow)
 ![CSS](https://img.shields.io/badge/CSS-yellow)
 ![JS](https://img.shields.io/badge/JS-yellow)
-
+</p>
 Follow me
 
