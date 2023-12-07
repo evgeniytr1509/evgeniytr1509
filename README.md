@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 About me: I am a beginner python developer
 
 Languages
-![Python]https://img.shields.io/badge/any_text-you_like-blue
+![Python](https://img.shields.io/badge/any_text-you_like-blue)
 
 Follow me
 
