@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 About me: I am a beginner python developer
 
-Languages
+languages and technologies
 ![Python](https://img.shields.io/badge/Python-blue)
 ![HTML](https://img.shields.io/badge/HTML-yellow)
-1
+![CSS](https://img.shields.io/badge/CSS-yellow)
 
 Follow me
 
