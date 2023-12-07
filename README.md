@@ -22,6 +22,7 @@ About me: I am a beginner python developer
 Languages
 ![Python](https://img.shields.io/badge/Python-blue)
 ![HTML](https://img.shields.io/badge/HTML-yellow)
+1
 
 Follow me
 
