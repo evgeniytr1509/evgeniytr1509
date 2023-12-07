@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 About me: I am a beginner python developer
 
 languages and technologies
-![Python](https://img.shields.io/badge/Python-blue)
+![Python](https://img.shields.io/badge/Python-yellow)
+
 ![HTML](https://img.shields.io/badge/HTML-yellow)
 ![CSS](https://img.shields.io/badge/CSS-yellow)
+![JS](https://img.shields.io/badge/JS-yellow)
 
 Follow me
 
