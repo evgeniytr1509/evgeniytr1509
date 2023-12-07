@@ -29,4 +29,3 @@ languages and technologies
 
 Follow me
 
-sdfdas
