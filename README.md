@@ -32,10 +32,10 @@ languages and technologies
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgeniytr1509&layout=pie)](https://github.com/evgeniytr1509/github-readme-stats)
+[![evgeniytr1509 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgeniytr1509&layout=pie)](https://github.com/evgeniytr1509/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgeniytr1509&layout=donut-vertical)](https://github.com/evgeniytr1509/github-readme-stats)
+[![evgeniytr1509 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgeniytr1509&layout=donut-vertical)](https://github.com/evgeniytr1509/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgeniytr1509&layout=compact)]
+[![evgeniytr1509 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgeniytr1509&layout=compact)](https://github.com/evgeniytr1509/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgeniytr1509&layout=compact)]
+[![evgeniytr1509 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgeniytr1509&layout=compact)](https://github.com/evgeniytr1509/github-readme-stats)
