@@ -27,5 +27,5 @@ languages and technologies
 ![CSS](https://img.shields.io/badge/CSS-yellow)
 ![JS](https://img.shields.io/badge/JS-yellow)
 
-Follow me
+
 [![evgeniytr1509 GitHub stats](https://github-readme-stats.vercel.app/api?username=evgeniytr1509&show_icons=true&bg_color=tokyonight)](https://github.com/evgeniytr1509/github-readme-stats)
