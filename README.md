@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 [![Header](https://github.com/evgeniytr1509/evgeniytr1509/blob/main/assets/img.jpg)]()
 
 About me: I am a beginner python developer
-
 ![Python](https://img.shields.io/badge/Python-yellow)
 
 ![HTML](https://img.shields.io/badge/HTML-yellow)
