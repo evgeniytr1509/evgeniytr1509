@@ -28,4 +28,4 @@ languages and technologies
 ![JS](https://img.shields.io/badge/JS-yellow)
 
 Follow me
-[![evgeniytr1509 GitHub stats](https://github-readme-stats.vercel.app/api?username=evgeniytr1509&show_icons=true)](https://github.com/evgeniytr1509/github-readme-stats)
+[![evgeniytr1509 GitHub stats](https://github-readme-stats.vercel.app/api?username=evgeniytr1509&show_icons=true&theme=transparent)](https://github.com/evgeniytr1509/github-readme-stats)
